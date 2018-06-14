@@ -1,4 +1,5 @@
-#!/usb/bin/sh
+#!/usr/bin/sh
 
 #comment
 echo "code"
+echo "eugen"
